@@ -1,6 +1,3 @@
-Sure! Here's a well-structured `README.md` file for your calculator script:
-
-```markdown
 # 🧮 Simple Python Calculator
 
 This is a basic command-line calculator written in Python. It allows users to perform simple arithmetic operations—addition, subtraction, multiplication, and division—between two numbers.
@@ -66,5 +63,3 @@ your result is 10 * 5 = 50
 This project is open-source and free to use for educational or personal purposes.
 
 ```
-
-Would you like me to format this for a GitHub project or add enhancements like input validation or support for floating-point numbers?
